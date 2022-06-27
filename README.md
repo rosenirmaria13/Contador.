@@ -1,2 +1,2 @@
 # Contador.
-Contador em JavaScript, HTML5 e CSS3
+Contador com JavaScript, HTML5 e CSS3
